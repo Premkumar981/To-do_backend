@@ -55,7 +55,7 @@ The system is designed to be **clean, maintainable, and scalable**, making it su
 ---
 
 ## 🧩 Project Structure
-
+```bash
 src/main/java
 └── com.hcl.todo_backend
 ├── controller # REST Controllers
@@ -65,7 +65,7 @@ src/main/java
 ├── dto # Request DTOs
 ├── security # Spring Security Config
 └── config # Application Configurations
-
+```
 
 This structure ensures:
 - Separation of concerns
